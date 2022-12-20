@@ -1,2 +1,4 @@
 * [Home](/)
-// * [Guide](guide.md)
+* [Probleemstelling](Probleemstelling.md)
+* [NFS](NFS.md)
+* [MPI](openMPI.md)
